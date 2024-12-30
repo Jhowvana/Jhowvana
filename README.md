@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FFFFFFA1&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=7CA8FFA1&center=falso&vCenter=falso&repeat=verdadeiro&random=verdadeiro&width=435&lines=✨Bem-vindo+ao+meu+GitHub!✨" alt="Typing SVG"  /></a>
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
