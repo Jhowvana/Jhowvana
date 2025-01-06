@@ -1,6 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=7CA8FFA1&center=falso&vCenter=falso&repeat=verdadeiro&random=verdadeiro&width=435&lines=✨Bem-vindo+ao+meu+GitHub!✨" alt="Typing SVG"  /></a>
 
-<img src="https://media.giphy.com/media/jwxMFMf74yjaXX3AD9/giphy.gif" width="100" height="100" alt="GIF">
+<div style="float: right;">
+  <img src="https://media.giphy.com/media/jwxMFMf74yjaXX3AD9/giphy.gif" width="100" height="100" alt="GIF">
+  <img src="https://media.giphy.com/media/FGzJeN5vsZLRyIDVgs/giphy.gif" width="100" height="100" alt="GIF">
+</div>
 
 <p align= "left" >
   Sou estudante de Análise e Desenvolvimento de Sistemas (ADS),
