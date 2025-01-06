@@ -1,7 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=7CA8FFA1&center=falso&vCenter=falso&repeat=verdadeiro&random=verdadeiro&width=435&lines=✨Bem-vindo+ao+meu+GitHub!✨" alt="Typing SVG"  /></a>
 
 <p align= "left" >
-  Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), moro em Curitiba e sou muito focada nos meus objetivos. A programação é uma paixão para mim, e estou sempre em busca de aprender mais e melhorar.
+  Sou estudante de Análise e Desenvolvimento de Sistemas (ADS),
+  moro em Curitiba e sou muito focada nos meus objetivos. 
+  A programação é uma paixão para mim, e estou sempre em busca 
+  de aprender mais e melhorar.
  </p>
  
 <div style="display: inline_block"><br>
