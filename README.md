@@ -1,5 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=7CA8FFA1&center=falso&vCenter=falso&repeat=verdadeiro&random=verdadeiro&width=435&lines=✨Bem-vindo+ao+meu+GitHub!✨" alt="Typing SVG"  /></a>
 
+<p align="left">
+  Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), moro em Curitiba e sou muito focada nos meus objetivos. A programação é uma paixão para mim, e estou sempre em busca de aprender mais e melhorar. Estou à procura de uma vaga como desenvolvedora Front-End ou Full-Stack, com o objetivo de criar soluções inovadoras. Embora ainda esteja aprendendo, estou comprometida em superar desafios e gerar bons resultados.
+ </p>
+ 
 <div style="display: inline_block"><br>
  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
